@@ -1,6 +1,6 @@
 ---
 title: "Algorithmic Trading"
-author: "Umaima Hussain & Robina Akinyi Rasanga"
+author: "Robina Akinyi Rasanga"
 date: "2025-03-18"
 output:
   pdf_document: 
